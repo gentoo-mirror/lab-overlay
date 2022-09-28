@@ -1,3 +1,4 @@
+app-admin/salt-lint 0.8.0: salt-lint checks Salt State files (SLS)
 app-office/joplin-desktop-bin 2.7.15: Joplin is an open source note-taking app
 dev-util/cloud-utils 0.32-r1: Utilities for interacting with a cloud
 net-misc/postman-bin 8.12.5: Postman is an API platform for building and using APIs
