@@ -1,5 +1,5 @@
 app-admin/salt-lint 0.9.2: salt-lint checks Salt State files (SLS)
 app-office/joplin-desktop-bin 2.11.11-r1: Joplin is an open source note-taking app
 dev-util/cloud-utils 0.32-r1: Utilities for interacting with a cloud
-media-sound/reaper-bin 7.22: Digital audio workstation
+media-sound/reaper-bin 7.25: Digital audio workstation
 net-vpn/wg-meshconf 2.5.0-r2: Tool to generate peer configuration files for WireGuard mesh networks
